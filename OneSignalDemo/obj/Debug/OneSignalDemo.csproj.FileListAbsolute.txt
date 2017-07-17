@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\bin\Debug\OneSignalDemo.dll
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\bin\Debug\OneSignalDemo.pdb
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\bin\Debug\Com.OneSignal.Abstractions.dll
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\bin\Debug\Com.OneSignal.dll
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\obj\Debug\OneSignalDemo.MainPage.xaml.g.cs
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\obj\Debug\OneSignalDemo.App.xaml.g.cs
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\obj\Debug\OneSignalDemo.dll
+C:\Users\admin\Documents\visual studio 2017\Projects\OneSignalDemo\OneSignalDemo\OneSignalDemo\obj\Debug\OneSignalDemo.pdb
